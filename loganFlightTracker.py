@@ -1,5 +1,4 @@
 import urllib.request, urllib.parse
-import ssl
 import re
 import json
 
